@@ -1,0 +1,1 @@
+Hugs 98 interpreter of Haskell compiled to run on JVM
